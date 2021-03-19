@@ -1,2 +1,1 @@
 # MyPicGo
-Github图床
